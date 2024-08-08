@@ -1,6 +1,6 @@
 {
   "name": "@hunterstrategy/hs-vue-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue typescript class and decorator based component.",
   "main": "./index.js",
   "module": "./esm/index.js",
